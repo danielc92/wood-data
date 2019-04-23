@@ -1,0 +1,26 @@
+<annotation>
+	<folder>renamed</folder>
+	<filename>wood-38.jpg</filename>
+	<path>/Users/vicvphq/Desktop/daniels-wood-collection/renamed/wood-38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>5</ymin>
+			<xmax>608</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>
